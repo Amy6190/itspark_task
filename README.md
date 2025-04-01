@@ -1,1 +1,1 @@
-# itspark_task
+just do npm i in both frontend and backend
